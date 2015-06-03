@@ -1,0 +1,18 @@
+1. command: wordCount -> Prints the number of words in the file.
+
+2. command: distWords -> Prints the number of distinct words in the file.
+
+3. command: frequentWord -> Prints the word(s) that had occurred the most in the input
+file. if two or more words have the same number of repetitions, one should print all of
+them (sort them in an alphabetical order).
+
+4. command: countWord myword -> prints the number of myword occurrence in the file.
+
+5. command: printPreorder -> Prints all words followed by their number of occurrences
+by using preorder tree traversal.
+
+6. command: printPostorder -> Prints all words followed by their number of occurrences
+by using postorder tree traversal.
+
+7. command: printInorder -> Prints all words followed by their number of occurrences by
+using inorder tree traversal.
